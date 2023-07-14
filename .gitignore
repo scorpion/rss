@@ -1,0 +1,8 @@
+# Mac Files
+.DS_Store
+
+# Environment Variables
+.env
+
+# FreshRSS
+/volumes

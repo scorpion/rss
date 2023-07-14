@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>News Explorer</title>
+    </head>
+    <body>
+        <outline text="Favorites">
+            <outline type="rss" text="Universe Today" title="Universe Today" xmlUrl="http://www.universetoday.com/universetoday.xml" htmlUrl="https://www.universetoday.com/"></outline>
+            <outline type="rss" text="Bad Astronomy" title="Bad Astronomy" xmlUrl="http://feeds.feedburner.com/DiscoverBlogs" htmlUrl="https://www.discovermagazine.com/rss/all"></outline>
+            <outline type="rss" text="Eurogamer.net" title="Eurogamer.net" xmlUrl="https://www.eurogamer.net/feed" htmlUrl="https://www.eurogamer.net/feed"></outline>
+            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"></outline>
+            <outline type="rss" text="Vox" title="Vox" xmlUrl="http://vox.com/rss/index.xml" htmlUrl="https://www.vox.com/"></outline>
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/BAaf" htmlUrl="https://arstechnica.com"></outline>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"></outline>
+            <outline type="rss" text="MacRumors : Mac News and Rumors" title="MacRumors : Mac News and Rumors" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="https://www.macrumors.com"></outline>
+        </outline>
+        <outline text="Subscriptions">
+            <outline type="rss" text="TechCrunch » Feed" title="TechCrunch » Feed" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/"></outline>
+            <outline type="rss" text="TorrentFreak" title="TorrentFreak" xmlUrl="http://feeds.feedburner.com/Torrentfreak" htmlUrl="https://torrentfreak.com/"></outline>
+            <outline type="rss" text="AnandTech Article Channel" title="AnandTech Article Channel" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"></outline>
+            <outline type="rss" text="Android Central | Android Forums, News, and Help" title="Android Central | Android Forums, News, and Help" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/rss.xml"></outline>
+            <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"></outline>
+            <outline type="rss" text="Archaeological Headlines - Archaeology Magazine" title="Archaeological Headlines - Archaeology Magazine" xmlUrl="https://www.archaeology.org/feed" htmlUrl="http://www.archaeology.org/feed"></outline>
+            <outline type="rss" text="FirstShowing.net" title="FirstShowing.net" xmlUrl="http://feeds.feedburner.com/firstshowing" htmlUrl="https://www.firstshowing.net"></outline>
+            <outline type="rss" text="SPACE.com" title="SPACE.com" xmlUrl="http://www.space.com/syn/space.xml" htmlUrl="https://www.space.com/home/feed/site.xml"></outline>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"></outline>
+            <outline type="rss" text="JoBlo.com" title="JoBlo.com" xmlUrl="http://www.joblo.com/newsfeeds/rss.xml" htmlUrl="https://www.joblo.com/"></outline>
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"></outline>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"></outline>
+            <outline type="rss" text="Omg! Ubuntu!" title="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"></outline>
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"></outline>
+            <outline type="rss" text="Astronomy Picture of the Day RSS Feed" title="Astronomy Picture of the Day RSS Feed" xmlUrl="http://www.acme.com/jef/apod/rss.xml" htmlUrl="http://www.acme.com/jef/apod/"></outline>
+            <outline type="rss" text="ComingSoon.net" title="ComingSoon.net" xmlUrl="http://feeds.feedburner.com/comingsoonnet30" htmlUrl="https://www.comingsoon.net/"></outline>
+            <outline type="rss" text="CNN" title="CNN" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com/index.html"></outline>
+            <outline type="rss" text="Film School Rejects" title="Film School Rejects" xmlUrl="http://feeds.feedburner.com/FilmSchoolRejects" htmlUrl="https://filmschoolrejects.com/"></outline>
+            <outline type="rss" text="The Independent" title="The Independent" xmlUrl="http://www.independent.co.uk/rss" description="Visit now for the latest news direct from The Independent and updated throughout the day" htmlUrl="https://www.independent.co.uk/"></outline>
+            <outline type="rss" text="Wired Top Stories" title="Wired Top Stories" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com"></outline>
+            <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/PSBlog" htmlUrl="https://blog.playstation.com"></outline>
+            <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" description="Latest World news news, comment and analysis from the Guardian, the world&#39;s leading liberal voice" htmlUrl="https://www.theguardian.com/world"></outline>
+            <outline type="rss" text="The A.V. Club - All stories" title="The A.V. Club - All stories" xmlUrl="https://www.avclub.com/rss" htmlUrl="https://www.avclub.com"></outline>
+            <outline type="rss" text="The Guardian" title="The Guardian" xmlUrl="https://www.theguardian.com/us/rss" htmlUrl="https://www.theguardian.com/us"></outline>
+            <outline type="rss" text="9to5Mac » Feed" title="9to5Mac » Feed" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/"></outline>
+            <outline type="rss" text="planet.freedesktop.org" title="planet.freedesktop.org" xmlUrl="http://planet.freedesktop.org/rss20.xml" htmlUrl="http://planet.freedesktop.org"></outline>
+            <outline type="rss" text="Saturday Morning Breakfast Cereal (updated daily)" title="Saturday Morning Breakfast Cereal (updated daily)" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="https://www.smbc-comics.com/"></outline>
+            <outline type="json" text="NPR News" title="NPR News" xmlUrl="https://feeds.npr.org/feeds/1001/feed.json" htmlUrl="http://npr.org"></outline>
+            <outline type="rss" text="SBNation.com -  All Posts" title="SBNation.com -  All Posts" xmlUrl="http://www.sbnation.com/rss/current" htmlUrl="https://www.sbnation.com/"></outline>
+            <outline type="rss" text="The Hill » Feed" title="The Hill » Feed" xmlUrl="https://thehill.com/feed/" htmlUrl="https://thehill.com"></outline>
+        </outline>
+    </body>
+</opml>
